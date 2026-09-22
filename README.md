@@ -2,6 +2,8 @@
 
 A mobile-first, local-first gambling recovery web app focused on interrupting the next gambling decision.
 
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Finfosmitsircommerce-eng%2Fgambling-kills)
+
 ## Core V1 flows
 - Urge Mode: 10-minute pause + friction steps
 - Break the Chase
